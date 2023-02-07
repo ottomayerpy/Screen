@@ -1,0 +1,10 @@
+C:\Users\UserPC\source\repos\Screen\Screen\bin\Debug\Screen.exe.config
+C:\Users\UserPC\source\repos\Screen\Screen\bin\Debug\Screen.exe
+C:\Users\UserPC\source\repos\Screen\Screen\bin\Debug\Screen.pdb
+C:\Users\UserPC\source\repos\Screen\Screen\obj\Debug\Screen.csprojAssemblyReference.cache
+C:\Users\UserPC\source\repos\Screen\Screen\obj\Debug\Screen.Form1.resources
+C:\Users\UserPC\source\repos\Screen\Screen\obj\Debug\Screen.Properties.Resources.resources
+C:\Users\UserPC\source\repos\Screen\Screen\obj\Debug\Screen.csproj.GenerateResource.cache
+C:\Users\UserPC\source\repos\Screen\Screen\obj\Debug\Screen.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\Screen\Screen\obj\Debug\Screen.exe
+C:\Users\UserPC\source\repos\Screen\Screen\obj\Debug\Screen.pdb
